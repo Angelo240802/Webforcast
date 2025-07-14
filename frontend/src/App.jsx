@@ -32,7 +32,7 @@ function App() {
         testing
       </p>
        <p className="read-the-docs">
-        this is jga
+        this is jose
       </p>
     </>
   )
